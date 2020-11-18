@@ -125,32 +125,6 @@ while turn_switch == True:
     else:
         print('\nYou must enter the name of the attack you wish to use.')
 
-
-## When the player or boss reaches 0 health ##
-
-
-
-
-#robot_image = print('            __          ')
-#print('           |**|         ')
-#print('	       |__|         ')
-#print('            ||          ')
-#print('       ------------     ')
-#print('       |          |     ')
-#print('       |          |     ')
-#print('   ----|  X-RS12  |---- ')
-#print('       |          |     ')
-#print('       |          |     ')
-#print('       |          |     ')
-#print('       |          |     ')
-#print('       ------------     ')
-#print('         ||    ||       ')
-#print('         ||    ||       ')
-#print('        ----  ----      ')
-
-
-
-
-
-
-
+        
+        
+        
