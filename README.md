@@ -24,5 +24,5 @@
 ## About the program
 * This is a basic Python script, and uses only two libraries ("random" and "termcolor").
 
-* Future updates may include other libraries, such as "pygame". Future updates may also include adjusted variables for balance.
+* Future updates may include other libraries, such as "pygame". Future updates may also include adjusted variables for added balance.
 
