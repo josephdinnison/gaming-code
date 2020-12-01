@@ -91,7 +91,6 @@ while turn_switch == True:
         elif miss_chance == 1:
             termcolor.cprint('\n---You used---', 'blue')
             print('Big blast - but it missed! Boss took 0 damage')
-
 ## Boss turn ##
         if turn_switch == True:
             boss_attack = random.choice(bossmove_list)
